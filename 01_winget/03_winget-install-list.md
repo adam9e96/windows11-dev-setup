@@ -74,8 +74,9 @@ winget install --id=WiresharkFoundation.Wireshark -e
 winget install --id=voidtools.Everything -e
 winget install --id=MartiCliment.UniGetUI.Pre-Release -e
 winget install --id=CrystalDewWorld.CrystalDiskInfo -e
-winget install --id Armin2208.WindowsAutoNightMode
-winget install fastfetch
+winget install --id=Armin2208.WindowsAutoNightMode  -e
+winget install --id=Fastfetch-cli.Fastfetch  -e
+winget install --id=Proton.ProtonVPN  -e
 ```
 
 ## 🧩 Microsoft Visual C++ Redistributable
