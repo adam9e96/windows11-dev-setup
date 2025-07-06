@@ -77,6 +77,7 @@ winget install --id=CrystalDewWorld.CrystalDiskInfo -e
 winget install --id=Armin2208.WindowsAutoNightMode  -e
 winget install --id=Fastfetch-cli.Fastfetch  -e
 winget install --id=Proton.ProtonVPN  -e
+winget install JanDeDobbeleer.OhMyPosh -s winget
 ```
 
 ## 🧩 Microsoft Visual C++ Redistributable
