@@ -10,6 +10,8 @@ winget install --id=Git.Git -e
 winget install --id=Helix.Helix -e
 winget install --id=Postman.Postman -e
 winget install --id=GitHub.GitHubDesktop -e
+winget install --id=Gyan.FFmpeg  -e
+winget install --id=mikf.gallery-dl.Nightly  -e
 ```
 
 ## 📦 패키지 / 프레임워크
@@ -47,6 +49,8 @@ winget install --id=Anthropic.Claude -e
 
 ```powershell
 winget install --id=Mozilla.Firefox.DeveloperEdition.ko -e
+
+winget install --id=eloston.ungoogled-chromium  -e
 ```
 
 ## 📁 압축 / 다운로드 / P2P
@@ -78,6 +82,12 @@ winget install --id=Armin2208.WindowsAutoNightMode  -e
 winget install --id=Fastfetch-cli.Fastfetch  -e
 winget install --id=Proton.ProtonVPN  -e
 winget install JanDeDobbeleer.OhMyPosh -s winget
+winget install --id=Microsoft.PowerToys  -e
+winget install --id=yt-dlp.yt-dlp  -e
+winget install --id=File-New-Project.EarTrumpet  -e
+winget install --id=ShareX.ShareX  -e
+winget install -e --id Mozilla.Thunderbird
+
 ```
 
 ## 🧩 Microsoft Visual C++ Redistributable
@@ -89,23 +99,4 @@ winget install --id=Microsoft.VCRedist.2013.x64 -e
 winget install --id=Microsoft.VCRedist.2013.x86 -e
 winget install --id=Microsoft.VCRedist.2010.x64 -e
 winget install --id=Microsoft.VCRedist.2010.x86 -e
-```
-
-## 📋 유용한 winget 명령어
-
-```powershell
-# 설치된 프로그램 목록 보기
-winget list
-
-# 프로그램 검색
-winget search [프로그램명]
-
-# 프로그램 업데이트
-winget upgrade [패키지ID]
-
-# 모든 프로그램 업데이트
-winget upgrade --all
-
-# 프로그램 제거
-winget uninstall [패키지ID]
 ```
