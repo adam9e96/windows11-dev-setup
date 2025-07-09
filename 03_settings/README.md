@@ -13,3 +13,11 @@ ffmpeg 설치 및 설정
 ## Java_windows11_setup.md
 
 jdk 설치 및 환경변수 설정
+
+## Node.js_windows11.setup.md
+
+Node 설치 및 환경변수 설정(fnm)
+
+## Python_windows11_setup.md
+
+Python 설치 및 환경변수 설정(uv)
