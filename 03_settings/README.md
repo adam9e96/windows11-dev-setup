@@ -21,3 +21,7 @@ Node 설치 및 환경변수 설정(fnm)
 ## Python_windows11_setup.md
 
 Python 설치 및 환경변수 설정(uv)
+
+## Maven_windows11_setup.md
+
+Maven 설치 및 환경변수 설정
