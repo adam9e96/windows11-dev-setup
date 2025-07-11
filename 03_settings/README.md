@@ -25,3 +25,12 @@ Python 설치 및 환경변수 설정(uv)
 ## Maven_windows11_setup.md
 
 Maven 설치 및 환경변수 설정
+
+## 서비스_windows11_setup.md
+윈도우11 서비스 정리
+
+## 선택적 기능_windows11_setup.md
+윈도우11 선택적 기능 정리
+
+## 윈도우 기능_windows11_setup.md
+윈도우11 기능 정리
