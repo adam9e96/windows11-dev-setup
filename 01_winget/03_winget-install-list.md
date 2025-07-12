@@ -12,6 +12,8 @@ winget install --id=Postman.Postman -e
 winget install --id=GitHub.GitHubDesktop -e
 winget install --id=Gyan.FFmpeg  -e
 winget install --id=mikf.gallery-dl.Nightly  -e
+winget install astral-sh.uv
+
 ```
 
 ## 📦 패키지 / 프레임워크
@@ -87,6 +89,8 @@ winget install --id=yt-dlp.yt-dlp  -e
 winget install --id=File-New-Project.EarTrumpet  -e
 winget install --id=ShareX.ShareX  -e
 winget install -e --id Mozilla.Thunderbird
+winget install --id=Anki.Anki  -e
+winget install --id=JAMSoftware.TreeSize.Free  -e
 
 ```
 
